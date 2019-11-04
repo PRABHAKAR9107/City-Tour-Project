@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "../../src/logo.svg";
+import logo from "../../logo.svg";
 
 import "./Navbar.scss";
 
