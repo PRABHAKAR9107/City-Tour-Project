@@ -8,7 +8,7 @@ import Navbar from "./components/Navbar/Navbar";
 
 import Tourlist from "./components/Tourlist";
 
-import "@fortawesome/fontawesome-free/css/all.min.css";
+import Footer from "./components/footer/footer";
 
 class App extends Component {
   render() {
@@ -16,6 +16,7 @@ class App extends Component {
       <React.Fragment>
         <Navbar />
         <Tourlist />
+        <Footer />
       </React.Fragment>
     );
   }
